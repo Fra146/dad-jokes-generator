@@ -1,4 +1,1 @@
-fabulous==0.4.0
-pillow==9.5.0
-gcc
-python-imaging
+coolprint
